@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>VaultTabs</title>
+  <link rel="stylesheet" href="ui-base.css">
+</head>
+<body>
+  <header class="app-header">
+    <div class="brand">
+      <img src="icons/icon48.png" alt="VaultTabs">
+      <div>
+        <div class="brand-title">VaultTabs</div>
+        <div class="brand-sub">Crash-proof sessions · zero group dupes</div>
+      </div>
+    </div>
+    <button class="tier-pill" id="tierPill">FREE</button>
+  </header>
+
+  <nav class="tabs">
+    <button class="tab-btn active" data-tab="sessions">Vault</button>
+    <button class="tab-btn" data-tab="backup">Backups</button>
+    <button class="tab-btn" data-tab="pro">Pro</button>
+  </nav>
+
+  <main>
+    <section class="panel active" id="panel-sessions">
+      <div class="card">
+        <div class="card-title">Snapshot Open Tabs & Tab Groups</div>
+        <input type="text" id="sessionNameInput" placeholder="Session name (optional, e.g. Sprint Research)">
+        <div class="row" style="margin-top:8px;">
+          <button class="btn btn-primary btn-sm" id="saveAllBtn" style="flex:1;">💾 Save All Windows</button>
+          <button class="btn btn-sm" id="saveWinBtn" style="flex:1;">Save This Window</button>
+        </div>
+      </div>
+      <div class="row" style="margin-bottom:7px;">
+        <input type="text" id="filterInput" placeholder="Filter saved sessions...">
+      </div>
+      <div class="list" id="sessionsList" style="max-height:260px;"></div>
+    </section>
+
+    <section class="panel" id="panel-backup">
+      <div class="card">
+        <div class="card-title">Rolling Automatic Snapshots <span class="pro-tag">PRO</span></div>
+        <div class="row">
+          <span>Auto-snapshot interval</span>
+          <select id="autoBackupSelect" style="width:140px;">
+            <option value="0">Off</option>
+            <option value="15">Every 15 min</option>
+            <option value="30">Every 30 min</option>
+            <option value="60">Every hour</option>
+          </select>
+        </div>
+      </div>
+      <div class="card">
+        <div class="card-title">Portable JSON Vault Backup</div>
+        <div class="row">
+          <button class="btn btn-sm" id="exportJsonBtn" style="flex:1;">⬇ Export Vault JSON</button>
+          <button class="btn btn-sm" id="importJsonBtn" style="flex:1;">⬆ Import JSON</button>
+        </div>
+        <input type="file" id="importFileInput" accept=".json" class="hidden">
+        <button class="btn btn-sm btn-block" id="recoverBackupBtn" style="margin-top:8px;">🛡 Recover Shadow Backup</button>
+      </div>
+    </section>
+
+    <section class="panel" id="panel-pro"></section>
+  </main>
+
+  <div class="toast" id="toast"></div>
+  <script type="module" src="popup.js"></script>
+</body>
+</html>
