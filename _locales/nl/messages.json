@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Crashbestendig Sessiebeheer",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Crashbestendige sessie- en tabgroepbeheerder voor Chrome die groepskleuren behoudt zonder dubbele groepen te maken.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Надійний менеджер сесій",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Відмовостійкий менеджер сесій і груп вкладок Chrome, що зберігає кольори та не дублює групи під час відновлення.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

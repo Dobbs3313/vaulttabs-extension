@@ -1,7 +1,8 @@
 # Privacy Policy — VaultTabs
 
 **Effective Date:** November 23, 2026  
-**Publisher:** ARIS PARTY LLC
+**Publisher:** ARIS PARTY LLC  
+**Hosted HTML Policy:** https://arisparty.org/extensions/vaulttabs/privacy
 
 ## Zero Telemetry & Local-First Design
 VaultTabs runs locally inside your Chrome browser. We do **not** collect, sell, rent, or transmit your browsing history, page contents, keystrokes, email address, or personal analytics to any server or third-party tracking service.
@@ -15,4 +16,4 @@ If you choose to upgrade to **VaultTabs Pro**, checkout is processed securely by
 Periodic subscription status checks send only your signed license key and product identifier to verify that a recurring subscription remains active (or that a lifetime purchase has not been refunded).
 
 ## Contact
-For privacy or billing support, contact ARIS PARTY LLC via the Chrome Web Store support link or open an issue on this repository.
+For privacy or billing support, email [support@arisparty.org](mailto:support@arisparty.org) or visit https://arisparty.org/extensions/vaulttabs/support.

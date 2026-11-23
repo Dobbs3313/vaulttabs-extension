@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — క్రాష్-ప్రూఫ్ సెషన్ మేనేజర్",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "పునరుద్ధరణలో గ్రూప్‌లను డూప్లికేట్ చేయకుండా గ్రూప్ రంగులను కాపాడే క్రాష్-ప్రూఫ్ Chrome ట్యాబ్ సెషన్ మేనేజర్.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

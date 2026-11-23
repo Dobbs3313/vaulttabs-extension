@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Crash-Proof Session Manager",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Crash-proof Chrome tab and Tab Group session manager that preserves group colours without duplicating groups on restore.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Krasjsikker Øktbehandler",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Krasjsikker behandler for faner og fanegrupper som bevarer gruppefarger uten å duplisere grupper ved gjenoppretting.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

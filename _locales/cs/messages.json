@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Odolný správce relací karet",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Spolehlivý správce relací a skupin karet Chrome, který zachová barvy skupin bez jejich duplikace při obnovení.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

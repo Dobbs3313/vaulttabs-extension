@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — مدیریت امن نشست‌ها",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "مدیر نشست‌ها و گروه‌های زبانه مقاوم در برابر خطا که رنگ گروه‌ها را بدون تکراری شدن در بازیابی حفظ می‌کند.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

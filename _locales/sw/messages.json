@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Meneja Imara wa Vipindi",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Meneja wa vipindi na vikundi vya vichupo vya Chrome anayehifadhi rangi za vikundi bila kurudia vikundi wakati wa kurejesha.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

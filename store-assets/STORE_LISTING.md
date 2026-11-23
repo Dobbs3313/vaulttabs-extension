@@ -2,9 +2,12 @@
 
 - **Title:** VaultTabs — Crash-Proof Tab & Tab Group Sessi
 - **Category:** Make Chrome Yours -> Functionality & UI
-- **Version:** 1.0.0
+- **Version:** 1.0.1
+- **Locales:** 56 Chrome Web Store languages (`_locales/`)
 - **Pricing:** Free with optional Stripe Pro upgrade ($2.99/mo · $19.99/yr · $29.99 Lifetime)
-- **Privacy Policy URL:** `https://github.com/Dobbs3313/vaulttabs-extension/blob/main/store-assets/PRIVACY_POLICY.md`
+- **Homepage URL:** `https://arisparty.org/extensions/vaulttabs`
+- **Support URL:** `https://arisparty.org/extensions/vaulttabs/support`
+- **Privacy Policy URL:** `https://arisparty.org/extensions/vaulttabs/privacy`
 
 ## Short Description (<= 132 chars)
 Crash-Proof Tab & Tab Group Session Manager with Zero Duplication. Fast, privacy-first Manifest V3 utility with zero ads or telemetry.
@@ -23,6 +26,11 @@ Crash-Proof Tab & Tab Group Session Manager with Zero Duplication. Fast, privacy
 - Rolling automatic scheduled backup snapshots (never lose tabs after a crash)
 - Edit, reorder, and delete individual tabs inside saved sessions
 - Session Buddy & Tab Session Manager JSON importer
+
+### Privacy & Support
+- Product & docs: https://arisparty.org/extensions/vaulttabs
+- Privacy policy: https://arisparty.org/extensions/vaulttabs/privacy
+- Support & setup: https://arisparty.org/extensions/vaulttabs/support (support@arisparty.org)
 
 ### Stripe Live Checkout Links
 - Monthly ($2.99/mo): https://buy.stripe.com/9B65kDgrZe0hamj6eCg3609

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — 防崩溃标签会话管家",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "防崩溃的 Chrome 标签页与标签组会话管理器，完整保留分组颜色与名称，恢复时绝不重复创建分组。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

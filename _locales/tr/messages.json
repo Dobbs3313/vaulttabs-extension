@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Çökme Korumalı Oturum Aracı",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Geri yüklemede sekmeleri ve Chrome Sekme Gruplarını renkleriyle koruyan, grupları çoğaltmayan güvenilir oturum yöneticisi.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

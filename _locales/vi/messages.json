@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Quản Lý Phiên Tab An Toàn",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Quản lý phiên tab và Nhóm tab Chrome chống sập, giữ nguyên màu nhóm mà không nhân đôi khi khôi phục.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

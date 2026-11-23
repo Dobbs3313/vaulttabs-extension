@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Sikker Chrome Sessionsstyring",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Fejlsikker styring af fanesessioner og fanegrupper, som bevarer gruppefarver uden at duplikere grupper ved gendannelse.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

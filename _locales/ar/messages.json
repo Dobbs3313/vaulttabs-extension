@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — مدير جلسات آمن من الأعطال",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "مدير جلسات ومجموعات تبويب محصن ضد الأعطال يحفظ ألوان المجموعات دون تكرارها عند الاستعادة.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

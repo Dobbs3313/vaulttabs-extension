@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Patikima Seansų Tvarkyklė",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Atspari lūžiams Chrome kortelių ir grupių seansų tvarkyklė, atkurianti spalvas be dubliuotų grupių.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

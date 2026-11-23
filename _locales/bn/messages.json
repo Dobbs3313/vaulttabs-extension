@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — ক্র্যাশ-প্রুফ সেশন ম্যানেজার",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "পুনরুদ্ধারে গ্রুপ ডুপ্লিকেট না করে গ্রুপের রঙ অক্ষুণ্ণ রাখা ক্র্যাশ-প্রুফ Chrome ট্যাব ও ট্যাব-গ্রুপ সেশন ম্যানেজার।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

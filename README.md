@@ -4,6 +4,10 @@
 
 A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** to outperform **Tab Session Manager** (`iaiomicjabeggjcfkbimgmglanimpnae`, 100K+ users, 3.5★).
 
+- **Product Page:** https://arisparty.org/extensions/vaulttabs
+- **Privacy Policy:** https://arisparty.org/extensions/vaulttabs/privacy
+- **Support & Setup:** https://arisparty.org/extensions/vaulttabs/support (`support@arisparty.org`)
+
 ## Competitive Advantages
 - Replaces Tab Session Manager (100K users, 3.5★, notorious session wipes & Tab Group duplication bugs)
 - Atomic write-verified storage prevents update/crash data wipes
@@ -40,4 +44,4 @@ A fast, privacy-first Chrome Manifest V3 extension built by **ARIS PARTY LLC** t
 ```bash
 node tests/verify.mjs .
 ```
-Outputs a store-ready archive at `dist/vaulttabs-extension-v1.0.0.zip`.
+Outputs a store-ready archive with 56 `_locales` at `dist/vaulttabs-extension-v1.0.1.zip`.

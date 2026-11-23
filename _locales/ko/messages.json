@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — 충돌 방지 세션 관리자",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "그룹 복원 시 중복 생성 없이 탭 그룹 색상과 이름을 그대로 보존하는 충돌 방지 크롬 세션 관리자.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

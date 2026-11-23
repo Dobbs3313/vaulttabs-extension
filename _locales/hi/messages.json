@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — क्रैश-प्रूफ़ सत्र प्रबंधक",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "पुनर्स्थापना पर समूहों की नकल बनाए बिना ग्रुप रंग सुरक्षित रखने वाला क्रैश-प्रूफ़ Chrome टैब और टैब ग्रुप प्रबंधक।",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

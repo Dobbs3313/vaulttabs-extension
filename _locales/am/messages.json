@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — አስተማማኝ የክፍለ-ጊዜ አስተዳዳሪ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ሲመለስ ቡድኖችን ሳያባዛ የቡድን ቀለሞችን የሚጠብቅ ከብልሽት የተጠበቀ የChrome ትር ክፍለ-ጊዜ አስተዳዳሪ።",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

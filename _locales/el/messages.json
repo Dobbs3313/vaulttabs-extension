@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Ασφαλής Διαχείριση Συνεδριών",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Ανθεκτικός διαχειριστής συνεδριών και ομάδων καρτελών Chrome που διατηρεί τα χρώματα χωρίς διπλότυπες ομάδες.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

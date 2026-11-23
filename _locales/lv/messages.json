@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Drošs Chrome Sesiju Pārvaldnieks",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Noturīgs Chrome ciļņu un ciļņu grupu sesiju pārvaldnieks, kas saglabā krāsas un nedublē grupas atjaunošanā.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

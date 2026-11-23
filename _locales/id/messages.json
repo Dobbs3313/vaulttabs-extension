@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Pengelola Sesi Tahan Crash",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pengelola sesi tab dan Grup Tab Chrome tahan crash yang menjaga warna grup tanpa menggandakannya saat dipulihkan.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

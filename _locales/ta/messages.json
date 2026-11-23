@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — செயலிழப்பு-தடுப்பு அமர்வு மேலாளர்",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "மீட்டெடுக்கும்போது குழுக்களை நகலெடுக்காமல் குழு நிறங்களைப் பாதுகாக்கும் நம்பகமான Chrome தாவல் அமர்வு மேலாளர்.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

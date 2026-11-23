@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — 防當機分頁工作階段管家",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "防當機的 Chrome 分頁與分頁群組工作階段管理工具，完整保留群組色彩與標題，還原時絕不重複建立群組。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

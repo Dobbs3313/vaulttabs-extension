@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — ક્રેશ-પ્રૂફ સેશન મેનેજર",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "પુનઃસ્થાપિત કરતી વખતે જૂથો ડુપ્લિકેટ કર્યા વિના જૂથના રંગો સાચવતો ક્રેશ-પ્રૂફ Chrome ટેબ સેશન મેનેજર.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

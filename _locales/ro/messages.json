@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Manager Sigur de Sesiuni",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Manager de sesiuni și grupuri de file rezistent la erori, care păstrează culorile fără a duplica grupurile la restaurare.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

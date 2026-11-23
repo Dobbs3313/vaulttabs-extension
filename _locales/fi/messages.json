@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Kaatumisenkestävä Istuntohallinta",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Luotettava Chrome-istuntojen ja välilehtiryhmien hallinta, joka säilyttää värit ilman ryhmien monistumista palautuksessa.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

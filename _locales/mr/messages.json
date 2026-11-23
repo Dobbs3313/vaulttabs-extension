@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — क्रॅश-प्रूफ सेशन मॅनेजर",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "रिस्टोअर करताना ग्रुप डुप्लिकेट न करता ग्रुप रंग जपणारा क्रॅश-प्रूफ Chrome टॅब आणि टॅब ग्रुप सेशन मॅनेजर.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

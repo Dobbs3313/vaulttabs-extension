@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Поуздан менаџер сесија",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Отпоран менаџер сесија и група картица који чува боје група без њиховог дуплирања при враћању.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

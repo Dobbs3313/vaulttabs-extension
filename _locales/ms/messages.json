@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Pengurus Sesi Kalis Ranap",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Pengurus sesi tab dan Kumpulan Tab Chrome yang mengekalkan warna kumpulan tanpa menduplikasinya semasa pulih.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

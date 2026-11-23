@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Tõrkekindel Seansihaldur",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Tõrkekindel Chrome'i vahekaartide ja kaardirühmade seansihaldur, mis säilitab rühmavärvid ilma taastamisel dubleerimata.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

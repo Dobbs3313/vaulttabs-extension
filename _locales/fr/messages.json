@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Sauvegarde de Sessions Fiable",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Gestionnaire de sessions et Groupes d’onglets résistant aux plantages, préservant les couleurs sans dupliquer les groupes.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

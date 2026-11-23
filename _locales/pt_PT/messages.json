@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Gestor Seguro de Sessões",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Gestor de sessões e Grupos de separadores à prova de falhas que preserva cores sem duplicar grupos ao restaurar.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

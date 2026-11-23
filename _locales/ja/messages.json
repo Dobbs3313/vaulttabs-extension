@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — クラッシュ耐性セッション保存",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "タブとTab Groupの色・名前を安全保存。復元時にグループが重複しない堅牢なChromeセッション管理拡張機能。",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

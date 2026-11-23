@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Összeomlásbiztos Munkamenet",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Biztonságos Chrome lap- és lapcsoport-munkamenet kezelő, amely helyreállításkor duplikálás nélkül őrzi meg a színeket.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

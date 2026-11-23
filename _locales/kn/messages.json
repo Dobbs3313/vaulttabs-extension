@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — ಕ್ರ್ಯಾಶ್-ಪ್ರೂಫ್ ಸೆಷನ್ ಮ್ಯಾನೇಜರ್",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "ಮರುಸ್ಥಾಪನೆಯಲ್ಲಿ ಗುಂಪುಗಳನ್ನು ನಕಲಿಸದೆ ಗುಂಪಿನ ಬಣ್ಣಗಳನ್ನು ಉಳಿಸುವ ಕ್ರ್ಯಾಶ್-ಪ್ರೂಫ್ Chrome ಟ್ಯಾಬ್ ಸೆಷನ್ ಮ್ಯಾನೇಜರ್.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

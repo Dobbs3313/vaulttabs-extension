@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — Varni Upravitelj Sej Zavihkov",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "Odporen upravitelj sej in skupin zavihkov za Chrome, ki ohrani barve skupin brez podvajanja ob obnovitvi.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "appName": {
+    "message": "VaultTabs — ക്രാഷ്-പ്രൂഫ് സെഷൻ മാനേജർ",
+    "description": "Extension name shown in Chrome Web Store"
+  },
+  "appShortName": {
+    "message": "VaultTabs",
+    "description": "Short name of the extension"
+  },
+  "appDescription": {
+    "message": "പുനഃസ്ഥാപിക്കുമ്പോൾ ഗ്രൂപ്പുകൾ ഇരട്ടിക്കാതെ ടാബ് ഗ്രൂപ്പ് നിറങ്ങൾ സൂക്ഷിക്കുന്ന ക്രാഷ്-പ്രൂഫ് Chrome സെഷൻ മാനേജർ.",
+    "description": "Extension summary shown in Chrome Web Store"
+  }
+}
